@@ -33,8 +33,7 @@
     ```bash
     python app.py
     ```
-   Navigate to `http://localhost:5000` to interact with the chatbot.
-
+   
 ### How to Customize:
 
 1. **Replace the default medical text** with your own text file in the `all_text_file/` directory, ensuring that your custom dataset fits your requirements.
