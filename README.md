@@ -7,7 +7,7 @@
 ### Features:
 - **Medical Assistance**: Get insights on various health issues by asking questions in natural language.
 - **Customizable Data**: You can feed the chatbot your own medical datasets or specific information, allowing it to generate responses that meet your unique needs.
-- **Integrated with GPT-2**: The chatbot is enhanced with **GPT-2** to provide well-structured, clear, and human-like responses for an improved conversational experience.
+- **Integrated with GPT-2**: The chatbot is enhanced with **GPT-3.5** to provide well-structured, clear, and human-like responses for an improved conversational experience.
 
 ### How It Works:
 1. **Query the Chatbot**: Type your health or medical question into the chatbot interface.
